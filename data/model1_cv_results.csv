@@ -1,0 +1,7 @@
+model,RMSE,MAE,R2
+Lasso,3.807,2.157,-0.019
+Baseline_mean,4.4,3.03,-0.361
+RandomForest,4.427,3.076,-0.378
+Ridge,4.445,2.783,-0.389
+Baseline_last_yr,5.806,4.327,-1.37
+Linear,6.314,3.655,-1.804
